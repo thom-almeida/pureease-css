@@ -1,0 +1,13 @@
+.navbar {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.left-side {
+    justify-content: start;
+}
+
+.right-side {
+    justify-self: end;
+}
